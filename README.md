@@ -35,11 +35,12 @@ We had already built a basic lipid trap.
 For the vortex, we went through a period of brainstorming and making design choices. First, we planned on making it 
 
 
+
 ## the result
 
 ![](https://i.imgur.com/gN7179D.jpg)
 ![](https://i.imgur.com/XJAZXVy.jpg)
 
 
-## how to replicate the project
+
 
