@@ -44,3 +44,27 @@ For the vortex, we went through a period of brainstorming and making design choi
 
 
 
+## Things we are missing for the dialogues II:
+
+VORTEX:
+- Try sphere (fishbowl) for vortex system
+- Add leds as candle or some nice effect
+- Try starting the vortex with some arduino code for automation
+- Model and 3d print piece to grab magnets attached to motor
+
+FILTERING PLANTS:
+- Cut pipe and make holes for plants
+- Add manual valve "" on side for water go to vortex
+- Add valve for water to go from lipid trap to plants pipe
+
+LIPID TRAP:
+- Take old water and store greywater(our houses or IAAC cleaning) for live test on wednesday
+- Put mesh for solids at the beginning of the trap
+- Put pump and connect it to plants pipe
+
+EXTRAS:
+
+- Ive made some sketches on how might look a new look for this system we created, ill show it to you and if you like it (and we define it together) maybe I can model it end of tuesday and make some render to show it on wednesday as improve for the prototype we have.
+- Presentation things? i dont know if we should make some posters or something as the previous dialogue. It would be good to define what we want to show of information apart from the prototype (printings, etc).
+
+
